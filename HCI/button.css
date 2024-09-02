@@ -1,0 +1,9 @@
+.myButton{
+border-radius: 50%;
+height: 100px;
+width: 100px;
+background-color: red;
+border: black solid 2px;
+color: Black;
+font-weight: bolder;
+}

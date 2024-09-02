@@ -1,0 +1,9 @@
+.block{
+  display:flex;
+  justify-content: space-between;
+  background-color:  #E5D9B6;
+  margin-left:30px;
+  margin-right:20px;
+  padding-bottom:20px;
+  border-radius: 9px;
+}

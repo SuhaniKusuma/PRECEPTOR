@@ -1,0 +1,25 @@
+.topnav{
+    position:fixed;
+    width:100%;
+    height:42px;
+    z-index: 1040;
+    background:#EA047E;
+}
+
+.topnav a {
+  float:left;
+  color: #000000;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 14px;
+}
+
+.topnav a:hover {
+  color:black;
+}
+
+.topnav-right {
+  float: right;
+}
+
